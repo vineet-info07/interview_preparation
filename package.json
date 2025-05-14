@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "'Javascript and dsa practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineet-info07/interview_preparation.git"
+  },
+  "author": "vineet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineet-info07/interview_preparation/issues"
+  },
+  "homepage": "https://github.com/vineet-info07/interview_preparation#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
